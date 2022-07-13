@@ -1,0 +1,8 @@
+EasyUEFI必须使用英文路径，不要放在中文目录里
+1.安装应用程序
+2.离线（!!!非常重要!!!）
+3.将破解的文件复制到 "C:\Program Files\Hasleo\EasyUEFI\bin\" 和“ "C:\Program Files\Hasleo\EasyUEFI\bin\WINPE\Program Files\EasyUEFI\bin\"
+4. 使用以下序列号注册应用程序: AX8KE42B-Y659QVLY-RAD6DG2M-NSJEPDUV-K2VWAW7S-GYMUK46W
+5.在脱机激活时，输入任何内容。
+6.重新启动程序。
+7.用防火墙阻止应用程序！！！
